@@ -32,7 +32,7 @@ android {
 }
 repositories {
     mavenCentral()
-    flatDir { dirs 'libs' }
+    //flatDir { dirs 'libs' }
     google()
     maven { url "https://jitpack.io" }
 }
